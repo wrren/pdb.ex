@@ -1,0 +1,3 @@
+%{
+  "msf_format": {:hex, :msf_format, "0.1.0", "49e4bca791c73c87f243132f521e357053654f99b51a3bdc2e4a1b712e6344f1", [:mix], [], "hexpm", "7a9d68ad3dee39779a6e1b74e2366e0eb6b1a08be9a08ddf269f46ff7872afaa"},
+}
